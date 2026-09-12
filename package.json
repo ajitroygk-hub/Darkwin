@@ -1,0 +1,14 @@
+{
+  "name": "wingo-game-api",
+  "version": "1.0.0",
+  "description": "Wingo Game Full API & Web System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "lowdb": "^1.0.0",
+    "web-push": "^3.6.6"
+  }
+}
